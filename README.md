@@ -15,8 +15,9 @@ I successfully completed this Nanodegree as a participant in the **4th cohort of
 
 ## 📂 Included Projects
 
-1. **Use a Pre-trained Image Classifier to Identify Dog Breeds**
-4. **Create Your Own Image Classifier – TensorFlow**
+**1. Use a Pre-trained Image Classifier to Identify Dog Breeds**
+
+**4. Create Your Own Image Classifier – TensorFlow**
 
 ## 🏆 Certification
 
